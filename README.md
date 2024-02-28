@@ -11,13 +11,11 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on cybersecurity
+- I’m currently working on cybersecurity
   
--  I am almost an expert in the languages ​​JavaScript, Python, Java, C#, C/C++, PHP, TypeScript, Swift, Kotlin, SQL
+- I am almost an expert in the languages ​​JavaScript, Python, Java, C#, C/C++, PHP, TypeScript, Swift, Kotlin, SQL
   
-- 👯 I’m looking to collaborate on Proyectos
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+- I’m looking to collaborate on projects
 
 
 
@@ -36,7 +34,3 @@
 
 
 <br>
-
-
------
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
