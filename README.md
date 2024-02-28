@@ -6,7 +6,7 @@
 <p align='center'>
 </p>
 
-<div size='20px'> Hi! My name is Ryu.
+<div size='20px'> My name is Ryu.
 </div>
 
 <h2> About Me </h2>
