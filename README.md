@@ -1,6 +1,3 @@
-<p align="left">
-    <img width="200" src="https://pbs.twimg.com/media/F_qJCrYXQAAqCRQ.jpg">
-</p>
 
 <h1> Hello Fellow Developers! 
 <p align='center'>
